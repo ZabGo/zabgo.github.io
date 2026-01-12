@@ -1,1 +1,4 @@
+theme: jekyll-theme-original
+title: ZabGo's homepage
+description: This is my webpage
 include: [".well-known"]
