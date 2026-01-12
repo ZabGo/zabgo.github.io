@@ -2,7 +2,7 @@
     {
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target": {
-            "namespace": "myloaegon",
+            "namespace": "android_app",
             "package_name": "com.aegon.p4l.dev.debug",
             "sha256_cert_fingerprints":
             ["72:0B:5F:90:16:90:AF:46:64:63:4F:8E:1B:E3:07:8B:2F:E2:EA:CB:E5:5B:96:7A:27:F5:4F:5E:7D:BF:58:98"]
